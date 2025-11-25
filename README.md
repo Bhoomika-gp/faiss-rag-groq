@@ -1,6 +1,7 @@
 # faiss-rag-groq
 
 ## rag-chatbot
+### University Info Chatbot | RAG + LLM for Harvard & Stanford CDS
 RAG chatbot using FAISS, Sentence-Transformers and Groq models. Streamlit UI included.
 
 ## Run locally
