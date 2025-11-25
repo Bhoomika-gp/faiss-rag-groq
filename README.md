@@ -2,6 +2,7 @@
 
 ## rag-chatbot
 ### University Info Chatbot | RAG + LLM for Harvard & Stanford CDS
+higher Education decision assitant
 RAG chatbot using FAISS, Sentence-Transformers and Groq models. Streamlit UI included.
 
 ## Run locally

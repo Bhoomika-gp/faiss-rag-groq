@@ -5,8 +5,8 @@ from src.search import RAGSearch
 st.set_page_config(page_title="higher Education decision assitant")
 
 # Title
-st.title("📚 RAG Chatbot")
-st.write("Ask questions based on your documents!")
+st.title("University FAQ Chatbot")
+st.write("Your personal assistant for university info—ask anything from admissions to fees!")
 
 # Initialize RAGSearch (only once)
 @st.cache_resource(show_spinner=False)
